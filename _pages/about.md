@@ -420,7 +420,7 @@ redirect_from:
   <div class="featured-text">
     <span class="featured-tag">Research highlight</span>
     <h2>Supersonic jet LES</h2>
-    <p>Large-eddy simulations of a Mach 1.5 underexpanded jet at a nozzle pressure ratio of 5, computed with the GPU-accelerated <a href="https://doi.org/10.1016/j.cpc.2023.108700">HORSES3D solver</a>.</p>
+    <p>Large-eddy simulations of a Mach 1.5 underexpanded jet at a nozzle pressure ratio of 5, computed with the GPU-accelerated <a href="https://doi.org/10.1016/j.cpc.2023.108700">HORSES3D solver</a> on <strong>NVIDIA A100 GPUs</strong>.</p>
     <p>We validate against the experimental schlieren and imaging-focused laser differential interferometry (I-FLDI) measurements of <a href="https://doi.org/10.1364/AO.599656">Constantin et al., <em>High-speed 2D flow mapping via imaging-focused laser differential interferometry</em> (Applied Optics, 2026)</a>.</p>
     <p>The LES predicts a screech tone of <strong>15.9&nbsp;kHz</strong>, compared with the experimental screech tone of <strong>16.1&nbsp;kHz</strong>.</p>
   </div>
