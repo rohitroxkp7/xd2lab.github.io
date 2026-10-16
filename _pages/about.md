@@ -411,7 +411,7 @@ redirect_from:
 <!-- Research highlight: supersonic jet LES -->
 <div class="featured-section" id="supersonic-jet-les">
   <div class="featured-video">
-    <video autoplay muted loop controls playsinline preload="auto" aria-label="Experimental schlieren image compared with a large-eddy simulation of a supersonic jet">
+    <video autoplay muted loop controls playsinline preload="metadata" poster="/images/supersonic-jet-les_poster.jpg" aria-label="Experimental schlieren image compared with a large-eddy simulation of a supersonic jet">
       <source src="/files/supersonic-jet-les.mp4" type="video/mp4">
       Your browser does not support the video tag. <a href="/files/supersonic-jet-les.mp4">Download the video</a>.
     </video>
